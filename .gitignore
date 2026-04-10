@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# PulseIQ Data (These are generated locally, don't push them)
+pulseiq_data/
+daily_scores.csv
